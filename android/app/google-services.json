@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657184693769",
+    "project_id": "wedapp-633fb",
+    "storage_bucket": "wedapp-633fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657184693769:android:55ba4a7e66ec513bfde2d8",
+        "android_client_info": {
+          "package_name": "com.example.wed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41pRbuERN3x_w4PPqQJMvxyZNP3t6wU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
